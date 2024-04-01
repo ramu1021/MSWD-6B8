@@ -2,7 +2,7 @@
 	"name": "taskmanager",
 	"version": "1.0.0",
 	"main": "server.js",
-	"license": "MIT",
+	"license": "LJRS",
 	"dependencies": {
 		"concurrently": "^8.2.0",
 		"nodemon": "^3.1.0"
